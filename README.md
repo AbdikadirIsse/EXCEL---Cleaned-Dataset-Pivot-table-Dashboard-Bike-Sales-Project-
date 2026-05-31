@@ -34,6 +34,4 @@ Built three pivot tables to explore the data:
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
 - Slicers & Report Connections
-- Nested IF Statements
-##  Connections
-•	Nested IF Statements
+- Nested IF Statements##  Conn
